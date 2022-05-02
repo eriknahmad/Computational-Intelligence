@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
 # Project Name: Computational Intelligence
 # File Name: Computational-Intelligence.py
 # Author: Erik Nahmad
